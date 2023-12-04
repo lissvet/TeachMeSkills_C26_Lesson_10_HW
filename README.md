@@ -1,8 +1,7 @@
 # TeachMeSkills_C26_Lesson_10_HW
 Homework for the tenth lesson
 
-**task0**
-
+**task0:**  
 Created a client.He can have any number of cards.  
 A card has three fields: cvv code, card number and amount on the card.  
 Let's display a message about how many identical cards the client has.  
